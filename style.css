@@ -7,7 +7,7 @@ body{
     display:flex;
     justify-content: center;
     width: 400px;
-    height: 200px;
+    height: 400px;
     background-color: #2654a9;
     align-items: center;
     flex-direction: column;
@@ -22,7 +22,14 @@ width: 400px;
 border-radius: 10px;
 
 }
+.cabecera{
+    background-color: aqua;
+    width: 400px;
+    color:hsl(90, 5%, 7%);
+    font-weight: 1000;
+}
+
 
 .text{
-
+ 
 }
