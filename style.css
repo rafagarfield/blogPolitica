@@ -1,6 +1,6 @@
 body{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color:#ffffff;
+    font-family:Georgia;
+    color:#dcc2c2;
     text-align: center;
 }
 .container{
@@ -12,7 +12,8 @@ body{
     align-items: center;
     flex-direction: column;
     margin:0;
-    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px rgba(95, 101, 219, 0.356);
+    
 }
 
 .title{
@@ -22,6 +23,12 @@ width: 500px;
 
 
 }
+.cabecera{
+    background-color: aqua;
+    width: 500px;
+    color:hsl(354, 86%, 46%);
+    font-weight: 1000;
+   
 
 .text{
 background-color: #24ba10;
