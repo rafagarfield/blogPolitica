@@ -1,0 +1,35 @@
+body{
+    font-family:Georgia;
+    color:#dcc2c2;
+    text-align: center;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    width: 500px;
+    height: 300px;
+    background-color: #2654a9;
+    align-items: center;
+    flex-direction: column;
+    margin:0;
+    box-shadow: 10px 10px 10px 10px rgba(95, 101, 219, 0.356);
+    
+}
+
+.title{
+background-color: blueviolet;
+margin:0;
+width: 500px;
+
+
+}
+.cabecera{
+    background-color: aqua;
+    width: 500px;
+    color:hsl(354, 86%, 46%);
+    font-weight: 1000;
+         }
+
+.text{
+background-color: #d209e1;
+}
