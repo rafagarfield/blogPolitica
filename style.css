@@ -33,3 +33,10 @@ width: 500px;
 .text{
 background-color: #d209e1;
 }
+
+.logo {
+    width: 100px;
+    height: 100px;
+    float: left;
+
+}
