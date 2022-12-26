@@ -33,3 +33,10 @@ width: 500px;
 .text{
 background-color: #d209e1;
 }
+
+.footer{
+background-color: #a0e109;
+height: 100px;
+width: 400px;
+color: #000;
+}
