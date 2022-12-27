@@ -7,7 +7,7 @@ body{
     display:flex;
     justify-content: center;
     width: 500px;
-    height: 300px;
+    height: 400px;
     background-color: #2654a9;
     align-items: center;
     flex-direction: column;
@@ -34,17 +34,9 @@ width: 500px;
 background-color: #d209e1;
 }
 
-<<<<<<< HEAD
 .logo {
     width: 100px;
     height: 100px;
     float: left;
 
-=======
-.footer{
-background-color: #a0e109;
-height: 100px;
-width: 400px;
-color: #000;
->>>>>>> 2a20f040cbf6f4b3dcf33a35287bef50db4f470a
 }
